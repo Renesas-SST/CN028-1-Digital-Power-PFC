@@ -12,8 +12,8 @@
 - Emulator: J-Link / E2 / E2-Lite
 
 ## GUI
-- CN028-1 Digital Power (PFC) Solution v1.2 (UART).exe
-- CN028-1 Digital Power (PFC) Solution v1.2 (CAN).exe
+- CN028-1 Digital Power (PFC) Solution vx.x (UART).exe
+- CN028-1 Digital Power (PFC) Solution vx.x (CAN).exe
 
 ### USB-UART Driver
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers<br>
