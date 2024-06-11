@@ -27,7 +27,7 @@ This driver is for the CAN-USB box (GCAN USBCAN-I Pro Bus Analyzer).<br>
 <img src="./docs/pics/GCAN%20USBCAN-I%20Pro%20Bus%20Analyzer.jpg" alt="img" width="200">
 
 # Usage
-## Guick Start Guide
+## Quick Start Guide
 ### PFC Application
 #### Hardware Connection and GUI Setting
 <img src="./docs/pics/hardware_connection (pfc mode).png" alt="img" width="360">
