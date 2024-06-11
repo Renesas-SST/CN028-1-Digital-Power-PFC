@@ -27,12 +27,13 @@ This driver is for the CAN-USB box (GCAN USBCAN-I Pro Bus Analyzer).<br>
 <img src="./docs/pics/GCAN%20USBCAN-I%20Pro%20Bus%20Analyzer.jpg" alt="img" width="200">
 
 # Usage
-## PFC Application
-### Hardware Connection and GUI Setting
+## Guick Start Guide
+### PFC Application
+#### Hardware Connection and GUI Setting
 <img src="./docs/pics/hardware_connection (pfc mode).png" alt="img" width="360">
 <img src="./docs/pics/gui_setting (pfc mode).png" alt="img" width="130">
 
-### Run Demo and Observe Measured Data
+#### Run Demo and Observe Measured Data
 1. Power on by AC power supply. Open "CN028-1 Digital Power (PFC) Solution vx.x (UART).exe". Select the COM port and click on “Connect” button. Choose “PFC” application and set “VDC Target” to 400V. Click “WRITE”. Then click “RUN” button.
 2. Get 400V on "CON1".<br>
 <img src="./docs/pics/pfc result2.png" alt="img" width="360">
@@ -41,12 +42,12 @@ This driver is for the CAN-USB box (GCAN USBCAN-I Pro Bus Analyzer).<br>
 
 Note: It is recommended to always disconnect the load before the system enters the RUN state of PFC. Connect the load until a stable 400VDC voltage is output to prevent the board from being an uncontrolled rectificaition state for a long time, which may cause heating and burning of components.
 
-## Grid-off Inverter Application
-### Hardware Connection and GUI Setting
+### Grid-off Inverter Application
+#### Hardware Connection and GUI Setting
 <img src="./docs/pics/hardware_connection (grid-off inverter).png" alt="img" width="360">
 <img src="./docs/pics/gui_setting (grid-off inverter).png" alt="img" width="130">
 
-### Run Demo and Observe Measured Data
+#### Run Demo and Observe Measured Data
 1. Power on by 400V DC power supply. Open “CN028-1 Digital Power (PFC) Solution vx.x (UART).exe”. Select the COM port and click on “Connect” button. Choose “Off-grid Inverter” application and set “FAC Target” to 50Hz, set “VAC Target” to 220V. Click “WRITE”. Then click “RUN” button.
 2. Get 220V/50Hz on "CON2".<br>
 <img src="./docs/pics/grid-off inverter result2.png" alt="img" width="360">
