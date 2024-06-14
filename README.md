@@ -4,7 +4,7 @@
 3600W bi-directional AC/DC power supply, based on digital control, using a totem pole bridgeless PFC topology and a combination of SiC and Si MOSFETs to operate in continuous conduction mode (CCM) at high switching frequency.
 
 # Installation
-## Operation Environment
+## Operation Conditions
 - Microcontroller: RA6T2 (R7FA6T2BD3CFP)
 - IDE: e2-studio v2023-01<br>
 https://www.renesas.com/us/en/document/uid/e-studio-2023-01-installer-windows
